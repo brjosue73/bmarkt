@@ -1,6 +1,6 @@
 # BMARKT - Dev
-## Desarrollo de sitio de comercio electronico #BMARKT
+## Desarrollo de sitio de comercio electronico # BMARKT
 
 ###Contribuyendo:
-j-alex
-brjosue73
+####j-alex
+####brjosue73
